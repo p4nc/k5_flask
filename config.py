@@ -1,0 +1,2 @@
+SECRET_KEY=b"jakfkr74849ldk-dk:dksj"
+TEMPLATES_AUTO_RELOAD=True
